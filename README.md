@@ -1,2 +1,4 @@
 # odin-recipes
-first "website" 
+first "website"
+This project will allow for me to 
+learn how to build a website from scratch
